@@ -1,0 +1,95 @@
+a:link {
+    color: tomato;
+}
+a:visited {
+    color: rgb(14, 5, 3);
+}
+body { background-image: url('img.gif');
+height: 100%;
+width: 100%;
+margin: 0%;
+background-size: cover;
+background-position: center;}
+i{
+    font-style:oblique;
+}
+    h1:hover{
+        color: brown;}
+
+        .a{
+            border-radius: 30px;
+            margin: 10px;
+        }
+        .e{
+            border-radius: 30px ; 
+            margin: 10px;
+        }
+        .c{
+            border-radius: 30px;
+            margin: 10px;
+        }
+        .d{
+            border-radius: 30px;
+            margin: 10px;
+        }
+        .b{
+            border-radius: 30px;
+            margin: 10px;
+        }
+h3{
+    font-style:oblique;
+}
+.la{
+    background-color: rgb(149, 114, 140);
+    border-radius: 50;
+    color: black;
+}
+.ba{
+    color: azure;
+    background-color: azure;
+    border: 2px;
+}
+.ba:hover{
+    color: rgb(172, 87, 142);
+}
+.titre{
+    color: rgb(255, 120, 223);
+    border-radius: 30px;
+    font-size: xx-large;
+}
+sah{
+    display: inline-block;
+    border: 2px;
+}
+th{
+    border-radius: 50px;
+    background-color: rgb(231, 235, 228);
+}
+td{
+    color:  rgb(191, 144, 234);
+    background-color:  rgb(191, 144, 234);
+}
+td:hover{
+    color:black;
+}
+.lal{
+    background-color: azure;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    justify-items: stretch;
+    border-radius: 10toppx;
+    background-color: rgba(0, 0, 0, 0);
+    color: blueviolet;
+    padding-top: 0%;
+    font-size: small;
+
+}
+table{
+    margin-left: 5%;
+    height : 70px;
+    border: 5px;
+
+}
