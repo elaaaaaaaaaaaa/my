@@ -1,13 +1,16 @@
 html{
     background-color: #000000;
 }
+/*background color black-*/
 html {
     font-family: sans-serif;
 }
+/*le style d'ecriture*/
 html {
     font-size: 10px;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
+/*grandeur d'ecriture*/
 :root {
     view-transition-name: root;
 }
@@ -15,40 +18,25 @@ user agent stylesheet
 html {
     display: block;
 }
-html {
-    font-size: 10px;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-}
+/*toute la page sous forme des blocks*/
 title {
     display: none;
 }
-html {
-    font-family: sans-serif;
-}
-html {
-    font-size: 10px;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-}
 head {
     display: none;
-}
-html {
-    font-family: sans-serif;
-}
-html {
-    font-size: 10px;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 header img {
     width: 268px;
     height: 33px;
 }
+/*header and with of image*/
 img {
     vertical-align: middle;
 }
 img {
     border: 0;
 }
+/*desactiver la bordure d'image*/
 img {
     overflow-clip-margin: content-box;
     overflow: clip;
@@ -57,13 +45,16 @@ a {
     color: #337ab7;
     text-decoration: none;
 }
+/*couleur l'ecriture bleu et effacer la ligne sous le lien*/ 
 #About, #Career:hover, #Departments:hover {
     color: #00b39b;
     text-decoration: none;
 }
+/*couleur l'ecriture vert et effacer la ligne sous le lien*/ 
 #Career, #Departments {
     color: #ababab;
 }
+/*couleur beige*/
 a {
     background-color: transparent;
 }
@@ -77,6 +68,7 @@ a {
     flex-wrap: wrap;
     margin-top: 8rem;
 }
+/*faire les block alligner*/
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
@@ -84,6 +76,7 @@ body {
     color: #333;
     background-color: #fff;
 }
+/*style d'ecriture et grandeur et couleur*/
 #headerlogo {
     width: 40px;
     aspect-ratio: auto 40 / 40;
@@ -165,6 +158,7 @@ div {
     padding: 0 20px;
     position: relative;
 }
+/*alligner les blocks */
 .for1 {
     background-color: #00ccb1;
     border-radius: 10px;
